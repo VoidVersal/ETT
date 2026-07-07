@@ -1,0 +1,50 @@
+/shop
+/home
+/voicechat invite smd
+/home
+/voicechat invite smd
+/home
+/sell
+/ec
+/stats NightVandal
+/tpa smed
+/tpa smd
+/shop
+/spawn
+/shop
+/spawn
+/bounty
+/stats Hacker_Enderman
+/tpa Mehraban
+/shop
+/tpaaccept
+/tpa Mehraban
+/ah pot
+/shop
+/tpacancel
+/shop
+/tpa Mehraban
+/tpacancel
+/tpa Mehraban
+/tpacancel
+/tpa Mehraban
+/tpacancel
+/tpa Mehraban
+/tpacancel
+/tpa Mehraban
+/tpa vad
+/tpa Mehraban
+/tpacancel
+/tpa Mehraban
+/tpa vad
+/tpa smd
+/tpa NightVandal
+/shop
+/tpaaccept
+/settings
+/shop
+/tpaaccept
+/shop
+/afk
+/login <<<<ARSAM@@1393>>>>
+/smp
