@@ -1,50 +1,50 @@
 /shop
-/home
-/voicechat invite smd
-/home
-/voicechat invite smd
-/home
 /sell
-/ec
-/stats NightVandal
-/tpa smed
-/tpa smd
+/shop
+/tpa br_cod_15
+/spawn
+/tpacancel
+/tpa br_cod_15
+/tpaac
+/tpaaccept
+/shop
+/tpa CJ_
+/shop
+/tpa CJ_
+/shop
+/tpa CJ_
 /shop
 /spawn
-/shop
-/spawn
-/bounty
-/stats Hacker_Enderman
-/tpa Mehraban
+/tpaaccept
 /shop
 /tpaaccept
-/tpa Mehraban
+/shop
+/spawn
 /ah pot
 /shop
-/tpacancel
-/shop
-/tpa Mehraban
-/tpacancel
-/tpa Mehraban
-/tpacancel
-/tpa Mehraban
-/tpacancel
-/tpa Mehraban
-/tpacancel
-/tpa Mehraban
-/tpa vad
-/tpa Mehraban
-/tpacancel
-/tpa Mehraban
-/tpa vad
-/tpa smd
-/tpa NightVandal
-/shop
+/ec
+/sp`
+/spawn
+/stats Jesuschrist
+/spawn
 /tpaaccept
-/settings
+/spawn
+/tpa CJ_
 /shop
-/tpaaccept
+/tpa CJ_
 /shop
 /afk
+/login <ali@siros>
+/smp
 /login <<<<ARSAM@@1393>>>>
 /smp
+/voicechat invite TeryakUser
+/tpa TeryakUser
+/home
+/spawn
+/tpa TeryakUser
+/voicechat invite p12a9rsa
+/voicechat invite TeryakUser
+/voicechat invite Zero
+/voicechat invite TeryakUser
+/voicechat invite p12a9rsa
